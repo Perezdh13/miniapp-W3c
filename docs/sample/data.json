@@ -15,7 +15,7 @@
                     "brand": "#B11623",
                     "complementary": "#FAFAFA"
                 },
-                "repository_url": "https://github.com/ow2-quick-app-initiative/poi-quick-app/tree/main/docs/country/city",
+                "repository_url": "https://github.com/Perezdh13/miniapp-W3c",
                 "text_info": "This app is created by locals and experts. As you can see, it's also free of charge. Please let us know if you want to contribute with your experience, enrich the content, correct inaccuracies, or submit pictures.",
                 "text_acknowledge": "This quick app is an open-source project powered by open data and enriched by the community. Most of the information was extracted from Wikidata, OpenStreetMaps, and other public sources. You can find inaccuracies, so we apologize in advance.",
                 "text_feedback": "Please let us know if you want to contribute with your experience, enrich the content, correct inaccuracies, or submit pictures. This app is created by locals and experts.",
@@ -23,39 +23,28 @@
                 "issue_url": "https://github.com/ow2-quick-app-initiative/poi-quick-app/issues/new?labels=country/city&template=update_request.md&title=Update+Request"
             },
             "pois": [{
-                    "id": "uniqueID",
-                    "lat": "50.8789629",
-                    "lon": "4.7013242",
-                    "type": "statue",
-                    "name": "My Statue",
-                    "images": [
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID_1.jpg",
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID_2.jpg"
-                    ],
-                    "description": "One-paragraph description",
-                    "more": "More description, if you want",
+                    "id": "1",
+                    "lat": "43.52850179323025",
+                    "lon": " -5.672106232075408",
+                    "type": "Bathroom",
+                    "name": "C. Cataluña, 57, 33210 Gijón, Asturias",
+                    "images":"https://lh3.ggpht.com/p/AF1QipPYjtLdNKKAI0VYIKLbFQZvv2KeWY4uCZgz_lXv=s512",
+                    "description": "",
+                    "more": "",
                     "urls": [
-                        "https://nl.wikipedia.org/wiki/De_Kotmadam_(Leuven)",
-                        "https://example.org/mypoi"
                     ]
                 },
                 {
-                    "id": "uniqueID-2",
-                    "lat": "50.9",
-                    "lon": "4.8",
-                    "type": "statue",
-                    "name": "My Statue",
-                    "images": [
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID2_1.jpg",
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID2_2.jpg"
-                    ],
-                    "description": "One-paragraph description",
-                    "more": "More description, if you want",
-                    "urls": [
-                        "https://nl.wikipedia.org/MyPoi",
-                        "https://example.org/mypoi"
-                    ]
-                }
+                    "id": "2",
+                    "lat": "43.54054504574279",
+                    "lon": "-5.650817803983526",
+                    "type": "Bathroom",
+                    "name": "Av. Rufo García Rendueles, 9, 33203 Gijón, Asturias",
+                    "images": "https://lh3.ggpht.com/p/AF1QipPdaYABirLlcxddur0RXrTWTMsmBta0umBm9Xql=s512",
+                    "description": "",
+                    "more": "",
+                    "urls": 
+                                }
             ]
         }
     }
