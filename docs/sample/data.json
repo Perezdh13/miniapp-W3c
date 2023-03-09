@@ -38,6 +38,58 @@
                 },
                 {
                     "id": "2",
+                    "lat": "43.53603811111222",
+                    "lon": "-5.635734158904302",
+                    "type": "Bathroom",
+                    "name": "Alameda de Manuel Preciado, 33203 Gijón, Asturias",
+                    "images": [
+                        "https://lh3.ggpht.com/p/AF1QipPdaYABirLlcxddur0RXrTWTMsmBta0umBm9Xql=s512"
+                    ],
+                    "description": "",
+                    "more": "",
+                    "urls": []
+                },
+                {
+                    "id": "3",
+                    "lat": "43.54054504574279",
+                    "lon": "-5.650817803983526",
+                    "type": "Bathroom",
+                    "name": "Av. Rufo García Rendueles, 9, 33203 Gijón, Asturias",
+                    "images": [
+                        "https://lh3.ggpht.com/p/AF1QipP7c9yya59zeUcAHG-dI-_ABVLb-385KY3O6Znz=s512"
+                    ],
+                    "description": "",
+                    "more": "",
+                    "urls": []
+                },
+                {
+                    "id": "4",
+                    "lat": "43.54397362790599",
+                    "lon": "-5.664350982217759",
+                    "type": "Bathroom",
+                    "name": "C. Marqués de San Esteban, 33201 Gijón, Asturias",
+                    "images": [
+                        "https://lh3.ggpht.com/p/AF1QipNnleW73VVfTQ7SkTohUX84yCcQ44ewRM5zCYN6=s512"
+                    ],
+                    "description": "",
+                    "more": "",
+                    "urls": []
+                },
+                {
+                    "id": "5",
+                    "lat": "43.52291385513292",
+                    "lon": "-5.6633317589043015",
+                    "type": "Bathroom",
+                    "name": "Av. del Llano, 200, 33210 Gijón, Asturias",
+                    "images": [
+                        "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=srfOpEwDLCZFiHCJHYg37A&cb_client=search.gws-prod.gps&w=408&h=240&yaw=96.29781&pitch=0&thumbfov=100"
+                    ],
+                    "description": "",
+                    "more": "",
+                    "urls": []
+                },
+                {
+                    "id": "2",
                     "lat": "43.54054504574279",
                     "lon": "-5.650817803983526",
                     "type": "Bathroom",
