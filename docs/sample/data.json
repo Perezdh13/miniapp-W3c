@@ -5,7 +5,7 @@
         "version": 1,
         "updated": "2022-09-26",
         "source_url": "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/data.json",
-        "matomo_base_url": "https://matomo.pbest.me/matomo.php?idsite=1&rec=1",        
+        "matomo_base_url": "https://matomo.pbest.me/matomo.php?idsite=1&rec=1",
         "marketplace_url": ""
     },
     "content": {
@@ -22,17 +22,19 @@
                 "feedback_url": "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/#get-involved",
                 "issue_url": "https://github.com/ow2-quick-app-initiative/poi-quick-app/issues/new?labels=country/city&template=update_request.md&title=Update+Request"
             },
-            "pois": [{
+            "pois": [
+                {
                     "id": "1",
                     "lat": "43.52850179323025",
-                    "lon": " -5.672106232075408",
+                    "lon": "-5.672106232075408",
                     "type": "Bathroom",
                     "name": "C. Cataluña, 57, 33210 Gijón, Asturias",
-                    "images":"https://lh3.ggpht.com/p/AF1QipPYjtLdNKKAI0VYIKLbFQZvv2KeWY4uCZgz_lXv=s512",
+                    "images": [
+                        "https://lh3.ggpht.com/p/AF1QipPYjtLdNKKAI0VYIKLbFQZvv2KeWY4uCZgz_lXv=s512"
+                    ],
                     "description": "",
                     "more": "",
-                    "urls": [
-                    ]
+                    "urls": []
                 },
                 {
                     "id": "2",
@@ -40,11 +42,13 @@
                     "lon": "-5.650817803983526",
                     "type": "Bathroom",
                     "name": "Av. Rufo García Rendueles, 9, 33203 Gijón, Asturias",
-                    "images": "https://lh3.ggpht.com/p/AF1QipPdaYABirLlcxddur0RXrTWTMsmBta0umBm9Xql=s512",
+                    "images": [
+                        "https://lh3.ggpht.com/p/AF1QipPdaYABirLlcxddur0RXrTWTMsmBta0umBm9Xql=s512"
+                    ],
                     "description": "",
                     "more": "",
-                    "urls": 
-                                }
+                    "urls": []
+                }
             ]
         }
     }
