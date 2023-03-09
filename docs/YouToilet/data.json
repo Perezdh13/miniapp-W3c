@@ -12,8 +12,8 @@
         "en": {
             "app": {
                 "theme": {
-                    "brand": "#B11623",
-                    "complementary": "#FAFAFA"
+                    "brand": "#EB1717",
+                    "complementary": "#000000"
                 },
                 "repository_url": "https://github.com/Perezdh13/miniapp-W3c",
                 "text_info": "This app is created by locals and experts. As you can see, it's also free of charge. Please let us know if you want to contribute with your experience, enrich the content, correct inaccuracies, or submit pictures.",
@@ -89,13 +89,39 @@
                     "urls": []
                 },
                 {
-                    "id": "2",
-                    "lat": "43.54054504574279",
-                    "lon": "-5.650817803983526",
+                    "id": "6",
+                    "lat": "43.54835662797666",
+                    "lon": "-5.66552167669533",
                     "type": "Bathroom",
-                    "name": "Av. Rufo García Rendueles, 9, 33203 Gijón, Asturias",
+                    "name": "Subida al Cerro, 10, 33201 Gijón, Asturias",
                     "images": [
-                        "https://lh3.ggpht.com/p/AF1QipPdaYABirLlcxddur0RXrTWTMsmBta0umBm9Xql=s512"
+                        "https://lh5.googleusercontent.com/p/AF1QipN9RAcKL0cbOM76C-xkDpmAbfnWrxKK9byTZzgQ=w408-h306-k-no"
+                    ],
+                    "description": "",
+                    "more": "",
+                    "urls": []
+                },
+                {
+                    "id": "7",
+                    "lat": "43.54284261155105",
+                    "lon": "-5.692527800008788",
+                    "type": "Bathroom",
+                    "name": "Cam. Arbeyal, 12, 33212 Gijón, Asturias",
+                    "images": [
+                        "https://lh5.googleusercontent.com/p/AF1QipPHk9G2FNfA_8a2sqVhh3XNjW9cqOPScJ9_1AgC=w408-h306-k-no"
+                    ],
+                    "description": "",
+                    "more": "",
+                    "urls": []
+                },
+                {
+                    "id": "8",
+                    "lat": "43.5281616534276",
+                    "lon": "-5.658088064426731",
+                    "type": "Bathroom",
+                    "name": "Bo. Suco Urbano, 12A, 33209 Gijón, Asturias",
+                    "images": [
+                        "https://lh5.googleusercontent.com/p/AF1QipOmC2638kDcNmbCYUl4AAL9ZZ-hYNwClGaLMZL-=w408-h544-k-no"
                     ],
                     "description": "",
                     "more": "",
